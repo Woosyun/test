@@ -1,12 +1,12 @@
 <table>
     <row>
       <cell>Column 1, Row 1</cell>
-      <cell>Column 2, Row 1</cell>
+      <cell>Column 2, Row 2</cell>
       <cell>Column 3, Row 1</cell>
+			<cell>Column 4, Rwo 1</cell>
     </row>
     <row>
       <cell>Column 1, Row 2</cell>
       <cell>Column 2, Row 2</cell>
-      <cell>Column 3, Row 2</cell>
     </row>
 </table>
